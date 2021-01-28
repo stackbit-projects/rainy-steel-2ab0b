@@ -47,4 +47,5 @@ sections:
       style: primary
       arrow: true
 template: advanced
+white_header: true
 ---
